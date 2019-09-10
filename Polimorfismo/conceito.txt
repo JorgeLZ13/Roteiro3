@@ -1,0 +1,6 @@
+O que é polimorfismo?
+
+É a capacidade de um objeto se adequar a formas diferentes conforme as necessidades. 
+Como exemplo, podemos citar o desenvolvimento de métodos com o mesmo nome e parâmetros
+distintos.
+
